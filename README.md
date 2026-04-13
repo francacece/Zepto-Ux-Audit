@@ -1,4 +1,4 @@
-#Zepto UX Audit — Task 1
+# Zepto UX Audit — Task 1
 
 **Intern:** Nsofor .C. Francisca  
 **Company:** OpenBluff  
